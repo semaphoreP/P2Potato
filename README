@@ -1,7 +1,7 @@
-P2Potato is a compltely distributed file storage system using Isis2. 
+P2Potato is a completely distributed file storage system using Isis2. 
 
 It gives you the benefits of having a virtual file system but encrypts everything (including the filenames) of everything you store in the cloud
 
 It is intended so that people can utilize each other's computers to store files in case their own fails and is not meant as a free storage system. You have to be willing to store other people's files in exchange for your own storage.
 
-It is useful in that it is completely decentralized. No one knows what they hold and where they hold it (including the encrpytion key for your account). 
+It is useful in that it is completely decentralized. No one knows what they hold and where they hold it (including the encryption key for your account). 
